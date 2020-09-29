@@ -1,0 +1,47 @@
+
+body{
+	background-color: #F6A400;
+	
+}
+button{
+	background-position: center;
+}
+h1, h2, h3, h4{
+	text-align: center;
+}
+h1{
+	color: #6EF31A;
+}
+h2{
+	color: #1D9BFF;
+}
+h3{
+	color: #FFFFFF;
+}
+h4{
+	color: #05F9F9;
+}
+
+#Tiburon1{
+	float: right;
+}
+#Tiburon2{
+	float: left;
+}
+
+#perro1{
+	float: right;
+}
+#perro2{
+	float: left;
+}
+
+#Thanos1{
+	float: right;
+}
+#Thanos2{
+	float: left;
+}
+#mp3{
+	text-align:center;
+}
